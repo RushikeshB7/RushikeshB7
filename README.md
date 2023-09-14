@@ -22,3 +22,7 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshB7&&theme=highcontrast" alt="rushikeshB7" /></p> -->
 
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshB7&show_icons=true&locale=en&theme=highcontrast" alt="rushikeshB7" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshB7&&theme=highcontrast" alt="rushikeshB7" /></p> -->
+
