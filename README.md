@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://rushikeshbambadkar-rushikesh2503.vercel.app/projects" target="blank">rushikeshBambadkar/projects</a>
 - 🙋‍♂️ Visit My Portfolio
-<a href="https://rushikeshbambadkar-rushikesh2503.vercel.app" target="blank">www.rushikeshbambadkar.com</a> -->
+<a href="https://rushikeshbambadkar-lyart.vercel.app/" target="blank">www.rushikeshbambadkar.com</a> -->
 
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshB7&show_icons=true&locale=en&theme=highcontrast" alt="rushikeshB7" /></p>
 <br>
